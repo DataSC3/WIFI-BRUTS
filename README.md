@@ -1,6 +1,25 @@
 # WiFi BRUT Attacker v1
 [English](#english-version) | [Русский](#русская-версия)
 
+
+## 🖼 Screenshots
+
+### 📱 User Interface Overview
+
+| Main Menu (1) | Network Scan (2) | Dictionary Selection (3) |
+|-----------|--------------|---------------------|
+| ![1](screenshots/1.png) | ![2](screenshots/2.png) | ![3](screenshots/3.png) |
+
+| Select Format (4) | Select Years (5) | Status (6) |
+|-----------------|---------|----------|
+| ![4](screenshots/4.png) | ![5](screenshots/5.png) | ![6](screenshots/6.png) |
+
+| Start Attack (7) | Attack Progress (8) |
+|------------------|-----------------|
+| ![4](screenshots/7.png) | ![4](screenshots/8.png) |
+
+
+
 <a name="english-version">English</a>
 ## ⚠️ WARNING: FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY
 This tool is designed for legal security testing only. Unauthorized use against networks you don't own is illegal. You are solely responsible for how you use this tool. Some devices may implement security measures that could lock you out or trigger alerts when scanned with this tool.
