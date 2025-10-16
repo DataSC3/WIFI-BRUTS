@@ -1,8 +1,7 @@
 # WiFi BRUT Attacker v1
-<a name="english">English</a> | <a name="russian">Русский</a>
+[English](#english-version) | [Русский](#русская-версия)
 
-English
-
+<a name="english-version">English</a>
 ## ⚠️ WARNING: FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY
 This tool is designed for legal security testing only. Unauthorized use against networks you don't own is illegal. You are solely responsible for how you use this tool. Some devices may implement security measures that could lock you out or trigger alerts when scanned with this tool.
 
@@ -85,7 +84,7 @@ This software is intended for:
 * Modular design for easy extension
 
 
-Русский
+<a name="русская-версия">Русский</a>
 ## ⚠️ ПРЕДУПРЕЖДЕНИЕ: ТОЛЬКО ДЛЯ ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЕЙ И АВТОРИЗОВАННОГО ТЕСТИРОВАНИЯ
 Данный инструмент предназначен только для легального тестирования безопасности. Неавторизованное использование против сетей, которые вам не принадлежат, является незаконным. Вы несете полную ответственность за способ использования этого инструмента. Некоторые устройства могут иметь механизмы безопасности, которые могут заблокировать вас или вызвать предупреждения при сканировании.
 
