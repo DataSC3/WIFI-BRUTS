@@ -169,7 +169,10 @@ This software is intended for:
 ## 📞 Contact / Контакты
 GitHub: @DataSC3
 
-Remember: With great power comes great responsibility. Use this tool wisely and ethically.
-Помните: большая сила приходит с большой ответственностью. Используйте этот инструмент мудро и этично.
+Remember: With great power comes great responsibility. 
+* Use this tool wisely and ethically.
+
+Помните: большая сила приходит с большой ответственностью. 
+* Используйте этот инструмент мудро и этично.
 
 PS. DataSC3
