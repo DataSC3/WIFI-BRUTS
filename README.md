@@ -29,11 +29,11 @@ A powerful WiFi dictionary attack tool with an intuitive graphical interface, de
 
 ## 🎯 Supported Platforms
 🎮 Flipper Zero
-* With ESP32 Marauder module (WiFi DevBoard)
+* With ESP32 Marauder | Bruce | Nemo module (WiFi DevBoard)
 
 🔌 ESP32 Devices
-* ESP32-WROOM/WROVER with Marauder firmware
-* Standalone ESP32 Marauder devices
+* ESP32-WROOM/WROVER with Marauder | Bruce | Nemo firmware
+* Standalone ESP32 Marauder | Bruce | Nemo devices
 
 📟 ESP8266 Devices
 * NodeMCU with Deauther firmware
@@ -112,11 +112,11 @@ This software is intended for:
 
 ## 🎯 Поддерживаемые платформы:
 🎮 Flipper Zero
-* С модулем ESP32 Marauder (WiFi DevBoard)
+* С модулем ESP32 Marauder | Bruce | Nemo (WiFi DevBoard)
 
 🔌 Устройства ESP32
-* ESP32-WROOM/WROVER с прошивкой Marauder
-* Автономные устройства ESP32 Marauder
+* ESP32-WROOM/WROVER с прошивкой Marauder | Bruce | Nemo
+* Автономные устройства ESP32 Marauder | Bruce | Nemo
 
 📟 Устройства ESP8266
 * NodeMCU с прошивкой Deauther
